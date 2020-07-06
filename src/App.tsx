@@ -26,9 +26,7 @@ function App() {
           <Route  path="/Pokemon">
             <Pokemon />
           </Route>
-          <Route  path="/Recipe">
-            <Recipe />
-          </Route>
+          
 
         </Switch>
    </BrowserRouter>
